@@ -1,6 +1,6 @@
 # 03 JavaScript: Password Generator
 
-	[Password Generator](https://github.com/NGUENANG7/PG.github.io)
+	[Password Generator](//github.com/NGUENANG7/PG.github.io)
 
 ## Your Task
 
