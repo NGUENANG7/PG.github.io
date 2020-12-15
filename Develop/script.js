@@ -110,7 +110,7 @@ function generatePassword(){
 
     }else if (uppercaseCheck){
       characters += uppercaseChar;
-
+            
     }else if(numberCheck){
   characters += numberChar;
 
