@@ -13,7 +13,7 @@ var password = "";
 
 // Write password to the #password input
 function determineLength(){
-  passwordLength = prompt("Choose how many characters long you want to have in your password to be [between 8-128 characters]: ");
+  passwordLength = prompt("Choose how many characters you want to have in your password? N.B: [between 8-128 characters]: ");
 
     if (passwordLength<8){
       alert("Password length must be between 8-128 characters");
